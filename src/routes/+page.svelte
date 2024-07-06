@@ -300,8 +300,8 @@
 
     .toggle-switch {
         position: absolute;
-        top: 20px;
-        right: 20px;
+        bottom: 20px;
+        left: 20px;
         display: flex;
         align-items: center;
     }
